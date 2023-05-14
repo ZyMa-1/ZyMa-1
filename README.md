@@ -1,5 +1,5 @@
 ### Hello
-
+<br/><br/>
 My Skills:
   - Python (3.10+)
     - General features knowledge `very good`
@@ -15,7 +15,7 @@ My Skills:
   - Css `kinda bad`
   - Js `beginner`
   - Java `beginner`
-  - Databases `begginer
+  - Databases `begginer`
   - Chrome Extension development `beginner`
   - IDE knowledge:
     - IntelliJ Idea Community (Java), PyCharm Community (Python)
