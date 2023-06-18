@@ -1,12 +1,11 @@
-### Hello
+### Hello, I hate programming.
 <br/><br/>
 My Skills:
-  - Python (3.10+)
+  - Python (3.10)
     - General features knowledge `very good`
     - PyQt6/Pyside6 `good`
     - requests, bs4 `good`
-    - built-in libraries `good`
-    - Flask, pygame `forgot everything`
+    - built-in libraries (unittest, typing, functools, logging) `good`
   - C++ 11, 17
     - Algorithms `good`
   - Bash
@@ -17,6 +16,7 @@ My Skills:
   - Java `beginner`
   - Databases `begginer`
   - Chrome Extension development `beginner`
+  - Github Actions `basics`
   - IDE knowledge:
     - IntelliJ Idea Community (Java), PyCharm Community (Python)
     - Brackets, Atom, Notepad++ (Html, css, js)
