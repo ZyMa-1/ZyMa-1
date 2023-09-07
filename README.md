@@ -16,7 +16,8 @@ My Skills:
   - Css `kinda bad`
   - Js `beginner`
   - Java `beginner`
-  - Databases `begginer`
+  - Databases `beginner`
+  - Discord bots `beginner` (events, context and stuff..., will try to learn interactions)
   - Chrome Extension development `beginner`
   - Github Actions `basics`
   - IDE knowledge:
