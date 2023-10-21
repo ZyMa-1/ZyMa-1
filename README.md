@@ -1,6 +1,5 @@
 ### Hello, I hate programming.
 
-My Jekyll website: [zyma-1.github.io/](https://zyma-1.github.io/)
 <br/><br/><br/>
 My Skills:
   - Python (3.10)
